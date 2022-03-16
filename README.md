@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://img.icons8.com/fluency/344/linkedin.png) [LinkedIn](https://www.linkedin.com/in/saurabh-yadav-73616b137/)
+![](https://icons8.com/icon/98960/linkedin) [LinkedIn](https://www.linkedin.com/in/saurabh-yadav-73616b137/)
