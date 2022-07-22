@@ -40,6 +40,18 @@ I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 </div>
 
 <!-- rc="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30px">&nbsp; -->
+
+
+# GitHub Stats
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurrabhh&show_icons=true&locale=en&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00&icon_color=FFFF00&custom_title=My%20GitHub%20Stats)
+
+# GitHub Activity
+![Krish's GitHub activity](https://github-readme-streak-stats.herokuapp.com/?user=saurrabhh&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&background=0D1117&currStreakLabel=FFFF00&ring=FFFF00&fire=FFFF00&sideLabels=FFFF00)
+
+# Top Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurrabhh&layout=compact&langs_count=10&theme=highcontrast&bg_color=0D1117&hide_border=true&color=FFFF00)
+<br>
+![](https://activity-graph.herokuapp.com/graph?username=saurrabhh&theme=react-dark&bg_color=0D1117&hide_border=true&color=FFFF00&line=FFFF00)
 	
 
 
