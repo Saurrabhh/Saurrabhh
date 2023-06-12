@@ -12,7 +12,9 @@ I am a Final Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 
 >Currently Working as a Software Developer Intern at Alemeno. 
 
->I’m looking to expand my knowledge in field on Mobile Development
+>I’m looking to expand my knowledge in field on Mobile Development.
+
+>Flutter Developer with an experinece of over 1.5+ yrs.
 
 >Ask me about Python, Problem Solving
 
