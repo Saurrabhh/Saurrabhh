@@ -5,14 +5,12 @@
 
 
 Currently pursuing undergraduate degree in Computer Science and Engineering from **Bhilai Institute of Technology, Durg**. 
-I am a Second Year CSE student and tech enthusiast. I'm based in Bhilai, India.
+I am a Final Year CSE student and tech enthusiast. I'm based in Bhilai, India.
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saurrabhh&label=Profile%20views&color=301930&style=bold" alt="saurrabhh" /> </p>
 
->Currently Working on Android Development and a Unity project 
-
->I’m currently learning Dart and Unity ☕
+>Currently Working as a Software Developer Intern at Alemeno. 
 
 >I’m looking to expand my knowledge in field on Mobile Development
 
