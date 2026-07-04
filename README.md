@@ -16,7 +16,7 @@
 
 <br/>
 
-I am a mobile developer specializing in **Flutter**. I enjoy designing fluid user experiences, writing clean BLoC and Clean Architecture patterns, and writing Dart code. Currently engineering mobile entertainment apps at **Flick TV**.
+I am a mobile developer specializing in **Flutter**. I enjoy designing fluid user experiences, writing clean BLoC and Clean Architecture patterns, and writing Dart code. Currently engineering mobile applications at **Flick TV**.
 
 ---
 
